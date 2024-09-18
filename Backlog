@@ -1,0 +1,4411 @@
+https://trello.com/b/MEUTEqFA 
+{
+  "id": "65034fdb60a1da1bd69250b1",
+  "nodeId": "ari:cloud:trello::board/workspace/633490c669574c033adae5d0/65034fdb60a1da1bd69250b1",
+  "name": "Senior Design",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "dateClosed": null,
+  "idOrganization": "633490c669574c033adae5d0",
+  "idEnterprise": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 28800
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1280
+      },
+      "totalAccessRequestsPerBoard": {
+        "status": "ok",
+        "disableAt": 4000,
+        "warnAt": 3200
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4000
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1600000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 800000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1800000,
+        "warnAt": 1440000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 160
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "customFieldOptions": {
+      "perField": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 40
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 900,
+        "warnAt": 720
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 14
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/MEUTEqFA/senior-design",
+  "prefs": {
+    "permissionLevel": "org",
+    "hideVotes": false,
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": true,
+    "cardCovers": true,
+    "isTemplate": false,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "hiddenPluginBoardButtons": [],
+    "switcherViews": [
+      {
+        "viewType": "Board",
+        "enabled": true
+      },
+      {
+        "viewType": "Table",
+        "enabled": true
+      },
+      {
+        "viewType": "Calendar",
+        "enabled": false
+      },
+      {
+        "viewType": "Dashboard",
+        "enabled": false
+      },
+      {
+        "viewType": "Timeline",
+        "enabled": false
+      },
+      {
+        "viewType": "Map",
+        "enabled": false
+      }
+    ],
+    "background": "gradient-snow",
+    "backgroundColor": "#228CD5",
+    "backgroundImage": "https://d2k1ftgv7pobq7.cloudfront.net/images/backgrounds/gradients/snow.svg",
+    "backgroundImageScaled": null,
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundBottomColor": "#37B4C3",
+    "backgroundTopColor": "#0C66E4",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "MEUTEqFA",
+  "subscribed": false,
+  "labelNames": {
+    "green": "",
+    "yellow": "",
+    "orange": "",
+    "red": "",
+    "purple": "",
+    "blue": "",
+    "sky": "",
+    "lime": "",
+    "pink": "",
+    "black": "",
+    "green_dark": "",
+    "yellow_dark": "",
+    "orange_dark": "",
+    "red_dark": "",
+    "purple_dark": "",
+    "blue_dark": "",
+    "sky_dark": "",
+    "lime_dark": "",
+    "pink_dark": "",
+    "black_dark": "",
+    "green_light": "",
+    "yellow_light": "",
+    "orange_light": "",
+    "red_light": "",
+    "purple_light": "",
+    "blue_light": "",
+    "sky_light": "",
+    "lime_light": "",
+    "pink_light": "",
+    "black_light": ""
+  },
+  "powerUps": [],
+  "dateLastActivity": "2023-09-18T01:49:06.014Z",
+  "dateLastView": "2023-09-19T00:14:41.960Z",
+  "shortUrl": "https://trello.com/b/MEUTEqFA",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": "automatic",
+  "ixUpdate": "93",
+  "templateGallery": null,
+  "enterpriseOwned": false,
+  "idBoardSource": null,
+  "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+  ],
+  "idMemberCreator": "633490b99e97db00eedda356",
+  "actions": [
+    {
+      "id": "6507ac92c7e1c2cc775a464c",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac92c7e1c2cc775a4643",
+          "name": "-\tIntegrate and test the entire subsystem.",
+          "idShort": 22,
+          "shortLink": "9216j81r"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:49:06.034Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac8a7fc4a713ce1c315e",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac8a7fc4a713ce1c3155",
+          "name": "-\tDesign a packaging solution for the entire system, using additive manufacturing.",
+          "idShort": 21,
+          "shortLink": "myEP7Ajn"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:58.136Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac8363a69e81d85dcc53",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac8363a69e81d85dcc4a",
+          "name": "-\tIntegrate and test the TX and RX sub-systems.",
+          "idShort": 20,
+          "shortLink": "eD6MQD28"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:51.159Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac79ae83325d31336076",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac79ae83325d3133606d",
+          "name": "-\tWrite codes for demodulating the OOK signal on the TX side.",
+          "idShort": 19,
+          "shortLink": "iYetizIH"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:41.457Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac72cc54e9ecd74d5e00",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac72cc54e9ecd74d5df7",
+          "name": "-\tWrite codes for containing sensor data, process, and generate the OOK signal.",
+          "idShort": 18,
+          "shortLink": "AyVV5dJL"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:34.025Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac6a1a4192ea662ff676",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac691a4192ea662ff66d",
+          "name": "-\tImplement pointing system for TX.",
+          "idShort": 17,
+          "shortLink": "x5OfB8D1"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:26.009Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac5fc7610f9fcc36274c",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac5fc7610f9fcc362743",
+          "name": "-\tDesign, or adjust existing design, the optical system using Keysight PDS.",
+          "idShort": 16,
+          "shortLink": "p7cpjGKU"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:15.673Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac52a37f6b03c93af63b",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac52a37f6b03c93af632",
+          "name": "-\tDesign the power system, including batteries and voltage converters as needed.",
+          "idShort": 15,
+          "shortLink": "a2rrG4Rv"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:48:02.236Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac482365567c82503490",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac482365567c82503486",
+          "name": "-\tIdentify and order items required for the overall system architecture. Check existing items.",
+          "idShort": 14,
+          "shortLink": "GHTo1Ecb"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:47:52.165Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac3e297c0097ca81fa03",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac3e297c0097ca81f9fa",
+          "name": "-\tReview laser driver and detector configuration, perform basic performance tests.",
+          "idShort": 13,
+          "shortLink": "FkoH9npn"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:47:42.265Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac35ba65c8bd09c36729",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac35ba65c8bd09c36720",
+          "name": "-\tDescribe in detail the overall system architecture down to voltage and current levels, Digital I/O, Analog I/O, battery voltages, computer and Sensor interface.",
+          "idShort": 12,
+          "shortLink": "ps7FOUaQ"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:47:33.589Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac263ef9a1bfd6e4ecd5",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac263ef9a1bfd6e4eccc",
+          "name": "-\tCheck existing pointing mechanism, and how to operate it.",
+          "idShort": 11,
+          "shortLink": "q7ibbTFq"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:47:18.312Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac1fcc3f62b9d038fc65",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac1fcc3f62b9d038fc5c",
+          "name": "-\tReview sensors of interest (optical camera) \u2013 We have the Cameron, and the optical sensor.",
+          "idShort": 10,
+          "shortLink": "cqmZECud"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:47:11.699Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac16517d0d6f7e9a1b37",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac16517d0d6f7e9a1b2e",
+          "name": "-\tReview literature on low-cost optical systems and confirm performance metrics.",
+          "idShort": 9,
+          "shortLink": "Q54Gyo52"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:47:02.055Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ac0c1e45df1c36f07d12",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507ac0c1e45df1c36f07d09",
+          "name": "-\tGet access to Micaplex 224 (sign lab policies form, get access from Dr. Rojas).",
+          "idShort": 8,
+          "shortLink": "L73C7R9Y"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:46:52.690Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507abfe091c145b96f165b8",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "name": "-\tUnderstand all the materials, designs, devices, from Zhou Banga\u2019s paper and the senior design team from last year.",
+          "id": "650354debd6e60fa2ced9f8f",
+          "idShort": 2,
+          "shortLink": "9yr5qfod"
+        },
+        "old": {
+          "name": "backlog"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-09-18T01:46:38.560Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507abf1470e67eca0e68597",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "name": "-\tReview the work from the previous year\u2019s project",
+          "id": "650354d9a739ed32708c19fb",
+          "idShort": 1,
+          "shortLink": "EmmaTnx7"
+        },
+        "old": {
+          "name": "Vision statement:"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2023-09-18T01:46:25.790Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ab872fe84c6f26b252a8",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "closed": true,
+          "id": "6507a3d6b4689a03d307dc05",
+          "name": "To Do"
+        },
+        "old": {
+          "closed": false
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:44:39.936Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507ab8555b844df9afcf505",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "closed": true,
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "old": {
+          "closed": false
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:44:37.515Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507aa8af1e731064f8c3114",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "pos": 376832,
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "old": {
+          "pos": 180224
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:40:26.653Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507aa742ce10f52f2043417",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "pos": 180224,
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "old": {
+          "pos": 376832
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:40:04.451Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507aa6b8133861d6a70a385",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "pos": 376832,
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "old": {
+          "pos": 245760
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:39:55.106Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507aa61632caa51817a5303",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "pos": 311296,
+          "id": "6507a3d6b4689a03d307dc05",
+          "name": "To Do"
+        },
+        "old": {
+          "pos": 180224
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:39:45.722Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507aa55ffbd06509b58f1ec",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "pos": 245760,
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "old": {
+          "pos": 114688
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:39:33.567Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a9da58a197503160f2d4",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507a9da58a197503160f2cb",
+          "name": "-\tGet access to Micaplex 224 (sign lab policies form, get access from Dr. Rojas).",
+          "idShort": 7,
+          "shortLink": "GEsuXvRF"
+        },
+        "list": {
+          "id": "6507a3d6b4689a03d307dc05",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:37:30.851Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3d6b4689a03d307dc09",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "id": "6507a3d6b4689a03d307dc05",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2023-09-18T01:11:50.705Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3cf80744f6983d7aae1",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507a3cf80744f6983d7aad8",
+          "name": "-\tReview sensors of interest (optical camera) \u2013 We have the Cameron, and the optical sensor.",
+          "idShort": 6,
+          "shortLink": "PFEnTNWO"
+        },
+        "list": {
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:11:43.479Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3c478acde5b902a5189",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507a3c478acde5b902a5180",
+          "name": "-\tReview literature on low-cost optical systems and confirm performance metrics.",
+          "idShort": 5,
+          "shortLink": "vg9DbQZE"
+        },
+        "list": {
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:11:32.636Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3bcd7260915fb842969",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507a3bcd7260915fb842960",
+          "name": "-\tUnderstand all the materials, designs, devices, from Zhou Banga\u2019s paper and the senior design team from last year.",
+          "idShort": 4,
+          "shortLink": "rtmHLgyX"
+        },
+        "list": {
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:11:24.643Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3af14380f183ea848a7",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "6507a3af14380f183ea8489e",
+          "name": "-\tReview the work from the previous year\u2019s project",
+          "idShort": 3,
+          "shortLink": "9qT6DPvX"
+        },
+        "list": {
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-18T01:11:11.944Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3a8c1d436dd744bdc4a",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "name": "To Do",
+          "id": "6507a3553f1aed957cb75cab"
+        },
+        "old": {
+          "name": "- Review the work from the previous year\u2019s project"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:11:04.175Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a380f2393e5a02f6bd82",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "name": "- Review the work from the previous year\u2019s project",
+          "id": "6507a3553f1aed957cb75cab"
+        },
+        "old": {
+          "name": "-\tReview the work from the previous year\u2019s project"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "updateList",
+      "date": "2023-09-18T01:10:24.999Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "6507a3553f1aed957cb75caf",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "list": {
+          "id": "6507a3553f1aed957cb75cab",
+          "name": "-\tReview the work from the previous year\u2019s project"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createList",
+      "date": "2023-09-18T01:09:41.224Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "650354debd6e60fa2ced9f98",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "650354debd6e60fa2ced9f8f",
+          "name": "backlog",
+          "idShort": 2,
+          "shortLink": "9yr5qfod"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-14T18:45:50.852Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "650354d9a739ed32708c1a04",
+      "idMemberCreator": "65035101bd23f50473c883f6",
+      "data": {
+        "card": {
+          "id": "650354d9a739ed32708c19fb",
+          "name": "Vision statement:",
+          "idShort": 1,
+          "shortLink": "EmmaTnx7"
+        },
+        "list": {
+          "id": "65034fdb60a1da1bd69250b8",
+          "name": "To Do"
+        },
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2023-09-14T18:45:45.887Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      }
+    },
+    {
+      "id": "65035147588cad94beb77a2e",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "memberType": "normal",
+        "idMemberAdded": "65035101bd23f50473c883f6",
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "addMemberToBoard",
+      "date": "2023-09-14T18:30:31.211Z",
+      "limits": null,
+      "member": {
+        "id": "65035101bd23f50473c883f6",
+        "activityBlocked": false,
+        "avatarHash": "13449aea7657fc544e88c66eba964c42",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+        "fullName": "Sarah Shiffer",
+        "idMemberReferrer": null,
+        "initials": "SS",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "sarahshiffer"
+      },
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    },
+    {
+      "id": "65035146d994ade91653f973",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "memberType": "normal",
+        "idMemberAdded": "65035073cf738961a4451a76",
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "addMemberToBoard",
+      "date": "2023-09-14T18:30:30.713Z",
+      "limits": null,
+      "member": {
+        "id": "65035073cf738961a4451a76",
+        "activityBlocked": false,
+        "avatarHash": "07ae458691d70732eb8501b6956e4cc6",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65035073cf738961a4451a76/07ae458691d70732eb8501b6956e4cc6",
+        "fullName": "Daniel U",
+        "idMemberReferrer": null,
+        "initials": "DU",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "ungerd"
+      },
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    },
+    {
+      "id": "65035145acb3271bcb0f5376",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "memberType": "normal",
+        "idMemberAdded": "65034faef7eb50c85c15e9f6",
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "addMemberToBoard",
+      "date": "2023-09-14T18:30:29.920Z",
+      "limits": null,
+      "member": {
+        "id": "65034faef7eb50c85c15e9f6",
+        "activityBlocked": false,
+        "avatarHash": "d30642765fa853006415be79c525e175",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65034faef7eb50c85c15e9f6/d30642765fa853006415be79c525e175",
+        "fullName": "Max",
+        "idMemberReferrer": null,
+        "initials": "M",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "willsonm1"
+      },
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    },
+    {
+      "id": "65035145fd763c1595b06581",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "memberType": "normal",
+        "idMemberAdded": "65034f666ccf3e19e271fe2f",
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "addMemberToBoard",
+      "date": "2023-09-14T18:30:29.310Z",
+      "limits": null,
+      "member": {
+        "id": "65034f666ccf3e19e271fe2f",
+        "activityBlocked": false,
+        "avatarHash": "96f14ca0a0282e85daf593e3521fe8bd",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/65034f666ccf3e19e271fe2f/96f14ca0a0282e85daf593e3521fe8bd",
+        "fullName": "Ashley Young",
+        "idMemberReferrer": null,
+        "initials": "AY",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "younga39"
+      },
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    },
+    {
+      "id": "650351449903c4b851a8cb25",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "memberType": "normal",
+        "idMemberAdded": "6419d11a4fe02db355001f40",
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "addMemberToBoard",
+      "date": "2023-09-14T18:30:28.225Z",
+      "limits": null,
+      "member": {
+        "id": "6419d11a4fe02db355001f40",
+        "activityBlocked": false,
+        "avatarHash": "5b29a8183a024692cf0bb2ab3d4023be",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/6419d11a4fe02db355001f40/5b29a8183a024692cf0bb2ab3d4023be",
+        "fullName": "Troy Clifford",
+        "idMemberReferrer": "6419c9f2a16cdfcc97b6c426",
+        "initials": "TC",
+        "nonPublic": {
+          "fullName": "Troy Clifford",
+          "initials": "TC",
+          "avatarHash": null
+        },
+        "nonPublicAvailable": true,
+        "username": "troyclifford"
+      },
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    },
+    {
+      "id": "65034fdb60a1da1bd69250eb",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        },
+        "organization": {
+          "id": "633490c669574c033adae5d0",
+          "name": "Homework for Fall 22"
+        }
+      },
+      "appCreator": null,
+      "type": "addToOrganizationBoard",
+      "date": "2023-09-14T18:24:27.897Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    },
+    {
+      "id": "65034fdb60a1da1bd69250e6",
+      "idMemberCreator": "633490b99e97db00eedda356",
+      "data": {
+        "creationMethod": "automatic",
+        "board": {
+          "id": "65034fdb60a1da1bd69250b1",
+          "name": "Senior Design",
+          "shortLink": "MEUTEqFA"
+        }
+      },
+      "appCreator": null,
+      "type": "createBoard",
+      "date": "2023-09-14T18:24:27.888Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "633490b99e97db00eedda356",
+        "activityBlocked": false,
+        "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+        "fullName": "AmarJon 7",
+        "idMemberReferrer": null,
+        "initials": "A7",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "amarjon7"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "650354d9a739ed32708c19fb",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:46:25.779Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+3141rxo7xyajpm9pbzv+2qpnxf13u0@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview the work from the previous year\u2019s project",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/650354d9a739ed32708c19fb",
+      "pos": 65535,
+      "shortLink": "EmmaTnx7",
+      "shortUrl": "https://trello.com/c/EmmaTnx7",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/EmmaTnx7/1-review-the-work-from-the-previous-years-project",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "650354debd6e60fa2ced9f8f",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:46:38.542Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+3141ry80uizdebcjj4f+2gdevkewmn@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tUnderstand all the materials, designs, devices, from Zhou Banga\u2019s paper and the senior design team from last year.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/650354debd6e60fa2ced9f8f",
+      "pos": 131071,
+      "shortLink": "9yr5qfod",
+      "shortUrl": "https://trello.com/c/9yr5qfod",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/9yr5qfod/2-understand-all-the-materials-designs-devices-from-zhou-bangas-paper-and-the-senior-design-team-from-last-year",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac0c1e45df1c36f07d09",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:46:52.673Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pifxphteimat1czt+197zb9b3mq@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 8,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tGet access to Micaplex 224 (sign lab policies form, get access from Dr. Rojas).",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac0c1e45df1c36f07d09",
+      "pos": 196607,
+      "shortLink": "L73C7R9Y",
+      "shortUrl": "https://trello.com/c/L73C7R9Y",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/L73C7R9Y/8-get-access-to-micaplex-224-sign-lab-policies-form-get-access-from-dr-rojas",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac16517d0d6f7e9a1b2e",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:47:02.039Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pih1f13j0ko16tda+1cyz8b073s@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 9,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview literature on low-cost optical systems and confirm performance metrics.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac16517d0d6f7e9a1b2e",
+      "pos": 262143,
+      "shortLink": "Q54Gyo52",
+      "shortUrl": "https://trello.com/c/Q54Gyo52",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/Q54Gyo52/9-review-literature-on-low-cost-optical-systems-and-confirm-performance-metrics",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac1fcc3f62b9d038fc5c",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:47:11.684Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pii2bl0cl6t8ujx8+1l69wlu36j@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 10,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview sensors of interest (optical camera) \u2013 We have the Cameron, and the optical sensor.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac1fcc3f62b9d038fc5c",
+      "pos": 327679,
+      "shortLink": "cqmZECud",
+      "shortUrl": "https://trello.com/c/cqmZECud",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/cqmZECud/10-review-sensors-of-interest-optical-camera-we-have-the-cameron-and-the-optical-sensor",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac263ef9a1bfd6e4eccc",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:47:18.299Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314piirfaglwz2890wc+27k037ygp5@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 11,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tCheck existing pointing mechanism, and how to operate it.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac263ef9a1bfd6e4eccc",
+      "pos": 393215,
+      "shortLink": "q7ibbTFq",
+      "shortUrl": "https://trello.com/c/q7ibbTFq",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/q7ibbTFq/11-check-existing-pointing-mechanism-and-how-to-operate-it",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac35ba65c8bd09c36720",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:47:33.571Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pikfp3s9akbsgun4+2bydouc0q2@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 12,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tDescribe in detail the overall system architecture down to voltage and current levels, Digital I/O, Analog I/O, battery voltages, computer and Sensor interface.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac35ba65c8bd09c36720",
+      "pos": 458751,
+      "shortLink": "ps7FOUaQ",
+      "shortUrl": "https://trello.com/c/ps7FOUaQ",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/ps7FOUaQ/12-describe-in-detail-the-overall-system-architecture-down-to-voltage-and-current-levels-digital-i-o-analog-i-o-battery-voltages-c",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac3e297c0097ca81f9fa",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:47:42.248Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pilcj49g04alif3u+20ewbhab46@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 13,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview laser driver and detector configuration, perform basic performance tests.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac3e297c0097ca81f9fa",
+      "pos": 524287,
+      "shortLink": "FkoH9npn",
+      "shortUrl": "https://trello.com/c/FkoH9npn",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/FkoH9npn/13-review-laser-driver-and-detector-configuration-perform-basic-performance-tests",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac482365567c82503486",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:47:52.148Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pimfda5v8xeib152+2bvnifta7v@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 14,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tIdentify and order items required for the overall system architecture. Check existing items.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac482365567c82503486",
+      "pos": 589823,
+      "shortLink": "GHTo1Ecb",
+      "shortUrl": "https://trello.com/c/GHTo1Ecb",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/GHTo1Ecb/14-identify-and-order-items-required-for-the-overall-system-architecture-check-existing-items",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac52a37f6b03c93af632",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:02.216Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pink8wrg72kr614i+19b5dt8tmv@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 15,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tDesign the power system, including batteries and voltage converters as needed.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac52a37f6b03c93af632",
+      "pos": 655359,
+      "shortLink": "a2rrG4Rv",
+      "shortUrl": "https://trello.com/c/a2rrG4Rv",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/a2rrG4Rv/15-design-the-power-system-including-batteries-and-voltage-converters-as-needed",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac5fc7610f9fcc362743",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:15.659Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314piozehzyzrnqlydf+02rgo212ef@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 16,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tDesign, or adjust existing design, the optical system using Keysight PDS.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac5fc7610f9fcc362743",
+      "pos": 720895,
+      "shortLink": "p7cpjGKU",
+      "shortUrl": "https://trello.com/c/p7cpjGKU",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/p7cpjGKU/16-design-or-adjust-existing-design-the-optical-system-using-keysight-pds",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac691a4192ea662ff66d",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:25.996Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pipzp7w4bjgzukj1+091wv8apim@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 17,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tImplement pointing system for TX.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac691a4192ea662ff66d",
+      "pos": 786431,
+      "shortLink": "x5OfB8D1",
+      "shortUrl": "https://trello.com/c/x5OfB8D1",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/x5OfB8D1/17-implement-pointing-system-for-tx",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac72cc54e9ecd74d5df7",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:34.010Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pir1g20dzpi9kvlj+0wjtuhho8e@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 18,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tWrite codes for containing sensor data, process, and generate the OOK signal.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac72cc54e9ecd74d5df7",
+      "pos": 851967,
+      "shortLink": "AyVV5dJL",
+      "shortUrl": "https://trello.com/c/AyVV5dJL",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/AyVV5dJL/18-write-codes-for-containing-sensor-data-process-and-generate-the-ook-signal",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac79ae83325d3133606d",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:41.438Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pirs8s1mi2jb9cvh+1zw91dcc1c@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 19,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tWrite codes for demodulating the OOK signal on the TX side.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac79ae83325d3133606d",
+      "pos": 917503,
+      "shortLink": "iYetizIH",
+      "shortUrl": "https://trello.com/c/iYetizIH",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/iYetizIH/19-write-codes-for-demodulating-the-ook-signal-on-the-tx-side",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac8363a69e81d85dcc4a",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:51.142Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pisu1aiznplhljre+1korx638y3@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 20,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tIntegrate and test the TX and RX sub-systems.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac8363a69e81d85dcc4a",
+      "pos": 983039,
+      "shortLink": "eD6MQD28",
+      "shortUrl": "https://trello.com/c/eD6MQD28",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/eD6MQD28/20-integrate-and-test-the-tx-and-rx-sub-systems",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac8a7fc4a713ce1c3155",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:48:58.120Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pitlpqenfg5eeno5+187dipexi5@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 21,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tDesign a packaging solution for the entire system, using additive manufacturing.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac8a7fc4a713ce1c3155",
+      "pos": 1048575,
+      "shortLink": "myEP7Ajn",
+      "shortUrl": "https://trello.com/c/myEP7Ajn",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/myEP7Ajn/21-design-a-packaging-solution-for-the-entire-system-using-additive-manufacturing",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507ac92c7e1c2cc775a4643",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:49:06.014Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314piuhyes4gxsfw30j+28hgbvoo0c@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "65034fdb60a1da1bd69250b8",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 22,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tIntegrate and test the entire subsystem.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507ac92c7e1c2cc775a4643",
+      "pos": 1114111,
+      "shortLink": "9216j81r",
+      "shortUrl": "https://trello.com/c/9216j81r",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/9216j81r/22-integrate-and-test-the-entire-subsystem",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507a9da58a197503160f2cb",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:37:30.830Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pgr6payzsbxdtf4b+17t19mgajg@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6507a3d6b4689a03d307dc05",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 7,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tGet access to Micaplex 224 (sign lab policies form, get access from Dr. Rojas).",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507a9da58a197503160f2cb",
+      "pos": 65535,
+      "shortLink": "GEsuXvRF",
+      "shortUrl": "https://trello.com/c/GEsuXvRF",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/GEsuXvRF/7-get-access-to-micaplex-224-sign-lab-policies-form-get-access-from-dr-rojas",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507a3af14380f183ea8489e",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:11:11.927Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pc0ejgctgqcn3iqm+2g41nqhxw6@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6507a3553f1aed957cb75cab",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview the work from the previous year\u2019s project",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507a3af14380f183ea8489e",
+      "pos": 65535,
+      "shortLink": "9qT6DPvX",
+      "shortUrl": "https://trello.com/c/9qT6DPvX",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/9qT6DPvX/3-review-the-work-from-the-previous-years-project",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507a3bcd7260915fb842960",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:11:24.626Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pc1w447a6wgttqow+27xu97nlvs@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6507a3553f1aed957cb75cab",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tUnderstand all the materials, designs, devices, from Zhou Banga\u2019s paper and the senior design team from last year.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507a3bcd7260915fb842960",
+      "pos": 131071,
+      "shortLink": "rtmHLgyX",
+      "shortUrl": "https://trello.com/c/rtmHLgyX",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/rtmHLgyX/4-understand-all-the-materials-designs-devices-from-zhou-bangas-paper-and-the-senior-design-team-from-last-year",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507a3c478acde5b902a5180",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:11:32.622Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pc2ptldy8kfm2a2o+09nwze513z@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6507a3553f1aed957cb75cab",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview literature on low-cost optical systems and confirm performance metrics.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507a3c478acde5b902a5180",
+      "pos": 196607,
+      "shortLink": "vg9DbQZE",
+      "shortUrl": "https://trello.com/c/vg9DbQZE",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/vg9DbQZE/5-review-literature-on-low-cost-optical-systems-and-confirm-performance-metrics",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "6507a3cf80744f6983d7aad8",
+      "address": null,
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false,
+        "start": null
+      },
+      "checkItemStates": [],
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dueComplete": false,
+      "dateLastActivity": "2023-09-18T01:11:43.461Z",
+      "desc": "",
+      "descData": {
+        "emoji": {
+
+        }
+      },
+      "due": null,
+      "dueReminder": null,
+      "email": "troyclifford+304kthhbjfpcf4fqybk+314pc3wrhzkr944k1y0+01ns7ervff@boards.trello.com",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "idChecklists": [],
+      "idLabels": [],
+      "idList": "6507a3553f1aed957cb75cab",
+      "idMembers": [],
+      "idMembersVoted": [],
+      "idOrganization": "633490c669574c033adae5d0",
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "labels": [],
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 800
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 400
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 56
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "-\tReview sensors of interest (optical camera) \u2013 We have the Cameron, and the optical sensor.",
+      "nodeId": "ari:cloud:trello::card/workspace/633490c669574c033adae5d0/6507a3cf80744f6983d7aad8",
+      "pos": 262143,
+      "shortLink": "PFEnTNWO",
+      "shortUrl": "https://trello.com/c/PFEnTNWO",
+      "staticMapUrl": null,
+      "start": null,
+      "subscribed": false,
+      "url": "https://trello.com/c/PFEnTNWO/6-review-sensors-of-interest-optical-camera-we-have-the-cameron-and-the-optical-sensor",
+      "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+      },
+      "isTemplate": false,
+      "cardRole": null,
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "65034fdb59075ce50dc06fc0",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "name": "",
+      "color": "blue",
+      "uses": 0
+    },
+    {
+      "id": "65034fdb59075ce50dc06fc3",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "name": "",
+      "color": "green",
+      "uses": 0
+    },
+    {
+      "id": "65034fdb59075ce50dc06fc1",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "name": "",
+      "color": "orange",
+      "uses": 0
+    },
+    {
+      "id": "65034fdb59075ce50dc06fc2",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "name": "",
+      "color": "purple",
+      "uses": 0
+    },
+    {
+      "id": "65034fdb59075ce50dc06fbf",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "name": "",
+      "color": "red",
+      "uses": 0
+    },
+    {
+      "id": "65034fdb59075ce50dc06fbd",
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "name": "",
+      "color": "yellow",
+      "uses": 0
+    }
+  ],
+  "lists": [
+    {
+      "id": "65034fdb60a1da1bd69250b8",
+      "name": "To Do",
+      "closed": false,
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "pos": 16384,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": "automatic",
+      "idOrganization": "633490c669574c033adae5d0",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/633490c669574c033adae5d0/65034fdb60a1da1bd69250b8"
+    },
+    {
+      "id": "65034fdb60a1da1bd69250b9",
+      "name": "Doing",
+      "closed": false,
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "pos": 32768,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": "automatic",
+      "idOrganization": "633490c669574c033adae5d0",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/633490c669574c033adae5d0/65034fdb60a1da1bd69250b9"
+    },
+    {
+      "id": "65034fdb60a1da1bd69250ba",
+      "name": "Done",
+      "closed": false,
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "pos": 49152,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": "automatic",
+      "idOrganization": "633490c669574c033adae5d0",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/633490c669574c033adae5d0/65034fdb60a1da1bd69250ba"
+    },
+    {
+      "id": "6507a3d6b4689a03d307dc05",
+      "name": "To Do",
+      "closed": true,
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "pos": 311296,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": null,
+      "idOrganization": "633490c669574c033adae5d0",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/633490c669574c033adae5d0/6507a3d6b4689a03d307dc05"
+    },
+    {
+      "id": "6507a3553f1aed957cb75cab",
+      "name": "To Do",
+      "closed": true,
+      "idBoard": "65034fdb60a1da1bd69250b1",
+      "pos": 376832,
+      "subscribed": false,
+      "softLimit": null,
+      "status": null,
+      "creationMethod": null,
+      "idOrganization": "633490c669574c033adae5d0",
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4000
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 800000
+          }
+        }
+      },
+      "nodeId": "ari:cloud:trello::list/workspace/633490c669574c033adae5d0/6507a3553f1aed957cb75cab"
+    }
+  ],
+  "members": [
+    {
+      "id": "633490b99e97db00eedda356",
+      "aaId": "633490b8a84c7f79c3875f37",
+      "activityBlocked": false,
+      "avatarHash": "e90845c8cf2d0854d972e25a3cff12ce",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/633490b99e97db00eedda356/e90845c8cf2d0854d972e25a3cff12ce",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "AmarJon 7",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": null,
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "A7",
+      "memberType": "normal",
+      "nonPublic": {
+
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/amarjon7",
+      "username": "amarjon7",
+      "status": "disconnected"
+    },
+    {
+      "id": "65034f666ccf3e19e271fe2f",
+      "aaId": "712020:a85d9b1d-0a60-418f-8c6b-0da06aa9df39",
+      "activityBlocked": false,
+      "avatarHash": "96f14ca0a0282e85daf593e3521fe8bd",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/65034f666ccf3e19e271fe2f/96f14ca0a0282e85daf593e3521fe8bd",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Ashley Young",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": null,
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "AY",
+      "memberType": "normal",
+      "nonPublic": {
+
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/younga39",
+      "username": "younga39",
+      "status": "disconnected"
+    },
+    {
+      "id": "65035073cf738961a4451a76",
+      "aaId": "712020:49adb7e7-9859-4ed6-8387-03302b04f0cf",
+      "activityBlocked": false,
+      "avatarHash": "07ae458691d70732eb8501b6956e4cc6",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/65035073cf738961a4451a76/07ae458691d70732eb8501b6956e4cc6",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Daniel U",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": null,
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "DU",
+      "memberType": "normal",
+      "nonPublic": {
+
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/ungerd",
+      "username": "ungerd",
+      "status": "disconnected"
+    },
+    {
+      "id": "65034faef7eb50c85c15e9f6",
+      "aaId": "712020:08d34a57-1a10-492c-8ac9-3b76641f1c01",
+      "activityBlocked": false,
+      "avatarHash": "d30642765fa853006415be79c525e175",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/65034faef7eb50c85c15e9f6/d30642765fa853006415be79c525e175",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Max",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": null,
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "M",
+      "memberType": "normal",
+      "nonPublic": {
+
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/willsonm1",
+      "username": "willsonm1",
+      "status": "disconnected"
+    },
+    {
+      "id": "65035101bd23f50473c883f6",
+      "aaId": "712020:80091c9e-d119-40e0-bdd1-0dfcd66052f3",
+      "activityBlocked": false,
+      "avatarHash": "13449aea7657fc544e88c66eba964c42",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/65035101bd23f50473c883f6/13449aea7657fc544e88c66eba964c42",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Sarah Shiffer",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": null,
+      "idMemberReferrer": null,
+      "idPremOrgsAdmin": [],
+      "initials": "SS",
+      "memberType": "normal",
+      "nonPublic": {
+
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/sarahshiffer",
+      "username": "sarahshiffer",
+      "status": "disconnected"
+    },
+    {
+      "id": "6419d11a4fe02db355001f40",
+      "aaId": "6419d1007222b08f3e723a9c",
+      "activityBlocked": false,
+      "avatarHash": "5b29a8183a024692cf0bb2ab3d4023be",
+      "avatarUrl": "https://trello-members.s3.amazonaws.com/6419d11a4fe02db355001f40/5b29a8183a024692cf0bb2ab3d4023be",
+      "bio": "",
+      "bioData": null,
+      "confirmed": true,
+      "fullName": "Troy Clifford",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": "6419c9f2a16cdfcc97b6c426",
+      "idPremOrgsAdmin": [],
+      "initials": "TC",
+      "memberType": "normal",
+      "nonPublic": {
+        "fullName": "Troy Clifford",
+        "initials": "TC",
+        "avatarHash": null
+      },
+      "nonPublicAvailable": true,
+      "products": [],
+      "url": "https://trello.com/troyclifford",
+      "username": "troyclifford",
+      "status": "disconnected"
+    }
+  ],
+  "checklists": [],
+  "customFields": [],
+  "memberships": [
+    {
+      "idMember": "633490b99e97db00eedda356",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "65034fdb60a1da1bd69250bc"
+    },
+    {
+      "idMember": "6419d11a4fe02db355001f40",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "650351439903c4b851a8c95a"
+    },
+    {
+      "idMember": "65034f666ccf3e19e271fe2f",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "65035145fd763c1595b0654e"
+    },
+    {
+      "idMember": "65034faef7eb50c85c15e9f6",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "65035145acb3271bcb0f5340"
+    },
+    {
+      "idMember": "65035073cf738961a4451a76",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "65035146d994ade91653f93b"
+    },
+    {
+      "idMember": "65035101bd23f50473c883f6",
+      "memberType": "normal",
+      "unconfirmed": false,
+      "deactivated": false,
+      "id": "65035147588cad94beb779f7"
+    }
+  ],
+  "pluginData": []
+}
